@@ -3,4 +3,12 @@ const coffeeStock={
     robusta: 0,
     libericak:300,
 };
-module.exports=coffeeStock;
+
+const milkSusu={
+    susucoklat:10,
+    susuputih:1,
+    susuhitam:2,
+}
+
+const isCoffeeMakerReady=true;
+module.exports={coffeeStock,milkSusu,isCoffeeMakerReady};
