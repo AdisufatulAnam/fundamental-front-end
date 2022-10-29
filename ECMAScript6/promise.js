@@ -30,7 +30,8 @@ const handlerRejected=rejectionReason=>{
 
 
 // onRejeck mengunakan catch method
-const makeCoffee=new Promise(exsekutorFunction);
-makeCoffee
-.then(handlerSuccess)
-.then(null,handlerRejected);
+// const makeCoffee=new Promise(exsekutorFunction);
+// makeCoffee
+// .then(handlerSuccess)
+// .then(null,handlerRejected);
+
